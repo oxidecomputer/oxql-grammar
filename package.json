@@ -1,7 +1,12 @@
 {
   "name": "oxql-grammar",
   "displayName": "oxql-grammar",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxidecomputer/oxql-grammar.git"
+  },
+  "author": "Oxide Computer Company",
+  "description": "Syntax highlighting for OxQL (Oximeter Query Language)",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
