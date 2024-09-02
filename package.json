@@ -1,0 +1,25 @@
+{
+  "name": "oxql-grammar",
+  "displayName": "oxql-grammar",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "oxql",
+      "aliases": ["OxQL", "oxql"],
+      "extensions": [",oxql"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "oxql",
+      "scopeName": "source.oxql",
+      "path": "./syntaxes/oxql.tmLanguage.json"
+    }]
+  }
+}
