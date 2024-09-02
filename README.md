@@ -1,6 +1,6 @@
 # OxQL TextMate Grammar
 
-Created for syntax highlighting, may also be installed as a VSCode plugin – pending its publish.
+Created for syntax highlighting, may also be installed as a [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=oxidecomputer.oxql-grammar).
 
 <img src="https://github.com/oxidecomputer/oxql-grammar/raw/main/preview.png" width="500">
 
